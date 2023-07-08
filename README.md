@@ -1,5 +1,5 @@
-# KYA320 Workshops
-Jupyter notebooks used in the workshops for KYA320.
+# KYA322 Workshops
+Jupyter notebooks used in the workshops for KYA322.
 
 ## Miniconda installation
 Conda is an open source package/environment management system that we will use to set up and run our Python-based computations. Miniconda is a free minimal installer for conda from which we will build upon to set up our computing environment. If you do not have conda installed, please visit 
